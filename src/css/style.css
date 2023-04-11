@@ -18,10 +18,10 @@ body {
   width: 100%;
 }
 
-.section-uno {
+.desc-section {
   height: 348px;
   width: 100%;
-  background-color: black;
+  background-color: #000000;
   color: white;
   display: flex;
   flex-direction: row;
@@ -45,14 +45,14 @@ body {
   height: 197px;
 }
 
-.section-dos {
+.icons-section {
   width: 100%;
   height: 348px;
   background-color: #1e1a13;
   color: white;
 }
 
-.section-dos h1 {
+.icons-section h1 {
   font-size: 40px;
   margin-top: 0;
 }
